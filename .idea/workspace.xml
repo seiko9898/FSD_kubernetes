@@ -12,8 +12,10 @@
   <component name="ChangeListManager">
     <list default="true" id="5bab858d-9380-49e0-946f-b2abaad698d8" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/buildspec.yml" beforeDir="false" afterPath="$PROJECT_DIR$/buildspec.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ci-cd-codepipeline.cfn.yml" beforeDir="false" afterPath="$PROJECT_DIR$/ci-cd-codepipeline.cfn.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/env_file" beforeDir="false" afterPath="$PROJECT_DIR$/env_file" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
